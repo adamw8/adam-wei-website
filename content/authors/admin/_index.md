@@ -69,6 +69,8 @@ email: 'adam.wei@mail.utoronto.ca'
 highlight_name: true
 ---
 
-I am a 4th year undergraduate student at the University of Toronto studying electrical engineering. I spent the summer of 2022 researching robotics at the GRASP Lab at the University of Pennsylvania where I was advised by Prof. Michael Posa. My research interests are in robotics, manipulation, optimization, and machine learning. I am currently applying to graduate schools and hope to pursue these areas further during my Ph.D.
+I am a 4th year undergraduate student at the University of Toronto studying electrical engineering. I spent the summer of 2022 researching robotics at the GRASP Lab at the University of Pennsylvania where I was advised by Prof. Michael Posa.
+
+My research interests are in robotics, manipulation, optimization, and machine learning. I am currently applying to graduate schools and hope to pursue these areas further during my Ph.D.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

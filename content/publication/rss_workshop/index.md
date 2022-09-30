@@ -1,23 +1,24 @@
 ---
-title: 'An example conference paper'
+title: 'Framework and Software for Real-Time Multi-Contact Model Predictive Control'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Adam Wei
+  - Michael Posa
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - ''
+  - ''
 
-date: '2013-07-01T00:00:00Z'
+date: '2022-01-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: ''
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,25 +27,25 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *RSS Workshop*
+publication_short: In *RSS Workshop*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Our recent work on consensus complementarity control (C3) proposes a model predictive control algorithm for hybrid systems that make and break contact with their environment. C3 is based on the alternating direction method of multipliers (ADMM), that is capable of high-speed reasoning over potential contact events. Via a consensus formulation, the approach enables parallelization of the contact scheduling problem and is able to run at real-time rates. In this abstract, we build upon this with software improvements that increase the run-time by approximately 2 times over our previous implementation (achieving 25 Hz rate for a problem with 19 states, 12 complementarity variables and 0.5 seconds prediction horizon). Additionally we integrated our software with Drake [4]. The software parses models in URDF format into a non-smooth linear complementarity system and generates a controller that solves the optimal control problem. In addition to our previous work, we also validated our approach on a 3D manipulation example.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+# - name:
+#   url: 
 
-url_pdf: ''
+url_pdf: 'https://github.com/AlpAydinoglu/starter-hugo-academic/blob/main/static/uploads/Framework_and_Software_for_Real_Time_Multi_Contact_Model_Predictive_Control.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -65,23 +66,13 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: ''
+
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
