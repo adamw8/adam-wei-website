@@ -43,7 +43,7 @@ featured: false
 # - name:
 #   url: 
 
-url_pdf: 'https://github.com/adamw8/adam-wei-website/blob/main/static/uploads/Adam-Wei-BitAllocation.pdf'
+url_pdf: 'https://drive.google.com/file/d/1ygmhR0-g66xL1NS0DyVUmu3y9ZSLsQa7/view?usp=sharing'
 url_code: ''
 url_dataset: ''
 url_poster: ''
