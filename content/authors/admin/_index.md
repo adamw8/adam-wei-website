@@ -10,15 +10,15 @@ last_name: Wei
 superuser: true
 
 # Role/position/tagline
-role: Electrical Engineering Student
+role: Incoming EECS Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Toronto
-    url: https://www.utoronto.ca/
+  - name: MIT
+    url: https://www.mit.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotics, manipulation, machine learning, and optimization.
+bio: I am an incoming Ph.D. student at MIT interested in robotics, manipulation, machine learning, and optimization.
 
 # Interests to show in About widget
 interests:
@@ -30,9 +30,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: EECS Ph.D. Candidate
+      institution: MIT
+      year: Incoming
     - course: B.Eng in Electrical Engineering
       institution: University of Toronto
-      year: Ongoing
+      year: 2023
     - course: IB Diploma
       institution: Colonel By Secondary School
       year: 2019
@@ -45,9 +48,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=zHlITeAAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/adamw8
@@ -63,7 +66,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'adam.wei@mail.utoronto.ca'
+email: 'weiadam@mit.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
