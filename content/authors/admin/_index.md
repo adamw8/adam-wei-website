@@ -73,5 +73,7 @@ highlight_name: true
 ---
 
 I am an incoming Ph.D. student at MIT advised by [Prof. Russ Tedrake](https://groups.csail.mit.edu/locomotion/russt.html). My research interests are in robotics, manipulation, optimization, and machine learning.
-I completed my undergraduate degree at the University of Toronto where I worked with [Prof. Andreas Moshovos](https://www.eecg.utoronto.ca/~moshovos/000/doku.php) on machine learning quantization. I also conducted research in robotics at the University of Pennsylvania where I was advised by [Prof. Michael Posa](https://dair.seas.upenn.edu/).
+
+I completed my undergraduate degree at the University of Toronto where I worked with [Prof. Andreas Moshovos](https://www.eecg.utoronto.ca/~moshovos/000/doku.php). I also spent a summer at the University of Pennsylvania where I had the wonderful opportunity to work with [Alp Aydinoglu](https://www.alpaydinoglu.com/) and [Prof. Michael Posa](https://dair.seas.upenn.edu/).
+
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
