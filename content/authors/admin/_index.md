@@ -72,8 +72,8 @@ email: 'weiadam@mit.edu'
 highlight_name: true
 ---
 
-I am a 4th year undergraduate student at the University of Toronto studying electrical engineering. I spent the summer of 2022 researching robotics at the GRASP Lab at the University of Pennsylvania where I was advised by Prof. Michael Posa.
+I am an incoming Ph.D. student at MIT advised by [Prof. Russ Tedrake](https://groups.csail.mit.edu/locomotion/russt.html)(https://groups.csail.mit.edu/locomotion/russt.html). During my undergraduate degree, I also had the opportunity to work with [Prof. Michael Posa](https://dair.seas.upenn.edu/) from the GRASP Lab at the University of Pennsylvania and [Prof. Andreas Moshovos](https://www.eecg.utoronto.ca/~moshovos/000/doku.php) from the University of Toronto.
 
-My research interests are in robotics, manipulation, optimization, and machine learning. I am currently applying to graduate schools and hope to pursue these areas further during my Ph.D.
+My research interests are in robotics, manipulation, optimization, and machine learning.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
