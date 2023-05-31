@@ -43,7 +43,7 @@ featured: false
 # - name:
 #   url: 
 
-url_pdf: 'https://drive.google.com/file/d/1ygmhR0-g66xL1NS0DyVUmu3y9ZSLsQa7/view?usp=sharing'
+url_pdf: 'https://drive.google.com/file/d/1W1KGu-8n3xpywd2oC0-FICmw7ajhFyIg/view?usp=sharing'
 url_code: ''
 url_dataset: ''
 url_poster: ''
