@@ -18,7 +18,7 @@ organizations:
     url: https://www.mit.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an incoming Ph.D. student at MIT interested in robotics, manipulation, machine learning, and optimization.
+bio: I am interested in robotics, manipulation, machine learning, and optimization.
 
 # Interests to show in About widget
 interests:

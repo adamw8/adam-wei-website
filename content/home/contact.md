@@ -16,7 +16,7 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: adam.wei@mail.utoronto.ca
+  email: weiadam@mit.edu
 
 design:
   columns: '2'
