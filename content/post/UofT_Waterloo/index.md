@@ -3,7 +3,7 @@ title: "University of Toronto vs University of Waterloo: which STEM program is r
 subtitle:
 
 # Summary for listings and search engines
-summary: "An in-depth comparision of the STEM programs at the University of Toronto and the University of Waterloo ([Link](https://medium.com/@adamwei78987/university-of-toronto-vs-university-of-waterloo-which-stem-program-is-right-for-you-6068277cba9a))."
+summary: "An in-depth comparision of the STEM programs at the University of Toronto and the University of Waterloo [[Link](https://medium.com/@adamwei78987/university-of-toronto-vs-university-of-waterloo-which-stem-program-is-right-for-you-6068277cba9a)]."
 
 # Link this post with a project
 projects: []

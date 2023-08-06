@@ -10,7 +10,7 @@ last_name: Wei
 superuser: true
 
 # Role/position/tagline
-role: Incoming EECS Ph.D. Candidate
+role: EECS Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -32,7 +32,7 @@ education:
   courses:
     - course: EECS Ph.D. Candidate
       institution: MIT
-      year: Incoming
+      year: 2023-Present
     - course: B.Eng in Electrical Engineering
       institution: University of Toronto
       year: 2023
