@@ -1,5 +1,5 @@
 ---
-title: "University of Toronto vs University of Waterloo: which STEM program is right for you?"
+title: "[University of Toronto vs University of Waterloo: which STEM program is right for you?](https://medium.com/@adamwei78987/university-of-toronto-vs-university-of-waterloo-which-stem-program-is-right-for-you-6068277cba9a)"
 subtitle:
 
 # Summary for listings and search engines
