@@ -57,11 +57,9 @@ url_video: 'https://www.youtube.com/watch?v=HyEv-pK9Qfs'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 #image:
-header:
-  image: 'featured.jpg'
   caption: ''
-#  focal_point: 'Smart'
-#  preview_only: true
+  focal_point: 'Smart'
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
