@@ -56,7 +56,7 @@ url_video: 'https://www.youtube.com/watch?v=HyEv-pK9Qfs'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-#image:
+image:
   caption: ''
   focal_point: 'Smart'
   preview_only: true
