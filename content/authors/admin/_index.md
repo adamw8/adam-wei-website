@@ -76,4 +76,6 @@ I am a Ph.D. student at MIT advised by [Prof. Russ Tedrake](https://groups.csail
 
 I completed my undergraduate degree at the University of Toronto where I worked with [Prof. Andreas Moshovos](https://www.eecg.utoronto.ca/~moshovos/000/doku.php). I also spent a formative summer at the University of Pennsylvania where I was advised by [Prof. Michael Posa](https://dair.seas.upenn.edu/).
 
+I am grateful to be funded by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [NSERC Postgraduate Scholarship (Doctoral)](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/index_eng.asp).
+
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
