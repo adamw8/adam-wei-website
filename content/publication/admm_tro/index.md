@@ -1,5 +1,5 @@
 ---
-title: 'Consensus Complementarity Control for Multi-Contact MPC'
+title: 'Consensus Complementarity Control for Multicontact MPC'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,6 +7,7 @@ title: 'Consensus Complementarity Control for Multi-Contact MPC'
 authors:
   - Alp Aydinoglu
   - admin
+  - Wei-Cheng Huang
   - Michael Posa
 
 # Author notes (optional)
@@ -14,8 +15,8 @@ author_notes:
   - ''
   - ''
 
-date: '2023-04-21T00:00:00Z'
-doi: ''
+date: '2024-07-30T00:00:00Z'
+doi: '10.1109/TRO.2024.3435423'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -27,10 +28,10 @@ publishDate: ''
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted to *IEEE TRO*
-publication_short: Submitted to *IEEE TRO*
+publication: IIEEE Transactions on Robotics
+publication_short: IEEE Transactions on Robotics
 
-abstract: We propose a hybrid model predictive control algorithm, consensus complementarity control (C3), for systems that make and break contact with their environment. Many state-of-the-art controllers for tasks which require initiating contact with the environment, such as locomotion and manipulation, require a priori mode schedules or are too computationally complex to run at real-time rates. We present a method based on the alternating direction method of multipliers (ADMM) that is capable of high-speed reasoning over potential contact events. Via a consensus formulation, our approach enables parallelization of the contact scheduling problem. We validate our results on five numerical examples, including four high-dimensional frictional contact problems, and a physical experimentation on an underactuated multi-contact system. We further demonstrate the effectiveness of our method on a physical experiment accomplishing a high-dimensional, multi-contact manipulation task with a robot arm.
+abstract: We propose a hybrid model predictive control algorithm, consensus complementarity control, for systems that make and break contact with their environment. Many state-of-the-art controllers for tasks, which require initiating contact with the environment, such as locomotion and manipulation, require a priori mode schedules or are too computationally complex to run at real-time rates. We present a method based on the alternating direction method of multipliers that is capable of high-speed reasoning over potential contact events. Via a consensus formulation, our approach enables parallelization of the contact scheduling problem. We validate our results on five numerical examples, including four high-dimensional frictional contact problems, and a physical experimentation on an underactuated multicontact system. We further demonstrate the effectiveness of our method on a physical experiment accomplishing a high-dimensional, multicontact manipulation task with a robot arm.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -45,14 +46,14 @@ featured: false
 # - name:
 #   url: 
 
-url_pdf: 'https://arxiv.org/abs/2304.11259'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10614849'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=HyEv-pK9Qfs'
+url_video: 'https://www.youtube.com/watch?v=L57Jz3dPwO8&feature=youtu.be'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
