@@ -18,7 +18,7 @@ organizations:
     url: https://www.mit.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in robotics, manipulation, machine learning, and optimization.
+bio: Robotics PhD student at MIT CSAIL. I am interested in robotics, manipulation, imitation learning, and controls.
 
 # Interests to show in About widget
 interests:
