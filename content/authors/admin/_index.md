@@ -23,9 +23,9 @@ bio: I am interested in robotics, manipulation, machine learning, and optimizati
 # Interests to show in About widget
 interests:
   - Robotics
+  - Imitation Learning
+  - Simulation
   - Controls
-  - Optimization
-  - Machine Learning
 
 # Education to show in About widget
 education:
