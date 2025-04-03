@@ -72,7 +72,7 @@ email: 'weiadam@mit.edu'
 highlight_name: true
 ---
 
-I am a Ph.D. student at MIT advised by [Prof. Russ Tedrake](https://groups.csail.mit.edu/locomotion/russt.html). My research interests are in robotics, manipulation, optimization, and machine learning.
+I am a Ph.D. student at MIT advised by [Prof. Russ Tedrake](https://groups.csail.mit.edu/locomotion/russt.html). Broadly speaking, my research interests are in robotics, manipulation, imitation learning, and controls. I am currently interested in how simulated data can be used to scale robot learning.
 
 I completed my undergraduate degree at the University of Toronto where I worked with [Prof. Andreas Moshovos](https://www.eecg.utoronto.ca/~moshovos/000/doku.php). I also spent a formative summer at the University of Pennsylvania where I was advised by [Prof. Michael Posa](https://dair.seas.upenn.edu/).
 
