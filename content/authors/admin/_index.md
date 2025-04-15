@@ -51,6 +51,9 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=zHlITeAAAAAJ&hl=en
+  - icon: twitter
+    icon_pack: fab
+    link: https://x.com/adamwei_
   - icon: github
     icon_pack: fab
     link: https://github.com/adamw8
