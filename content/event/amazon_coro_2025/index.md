@@ -10,7 +10,7 @@ abstract: 'In imitation learning for robotics, cotraining with demonstration dat
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-04-10'
+date: '2025-04-10T09:45:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
