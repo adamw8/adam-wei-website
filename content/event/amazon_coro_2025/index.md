@@ -10,7 +10,7 @@ abstract: 'In imitation learning for robotics, cotraining with demonstration dat
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-04-10T09:45:00Z'
+date: '2025-04-10'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
@@ -24,7 +24,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Slides are available.'
+  caption: 'Slides are available [**here**](https://slides.com/weiadam/amazon-coro-symposium-2025).'
   focal_point: Right
 
 url_code: ''
