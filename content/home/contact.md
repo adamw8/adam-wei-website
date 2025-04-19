@@ -17,6 +17,12 @@ content:
 
   # Contact details (edit or remove options as required)
   email: weiadam@mit.edu
+  contact_links:
+  - icon: twitter
+  icon_pack: fab
+  name: Twitter
+  link: 'https://x.com/adamwei_'
+
 
 design:
   columns: '2'
