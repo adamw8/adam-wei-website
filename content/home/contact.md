@@ -19,9 +19,9 @@ content:
   email: weiadam@mit.edu
   contact_links:
   - icon: twitter
-  icon_pack: fab
-  name: Twitter
-  link: 'https://x.com/adamwei_'
+    icon_pack: fab
+    name: Twitter
+    link: 'https://x.com/adamwei_'
 
 
 design:
