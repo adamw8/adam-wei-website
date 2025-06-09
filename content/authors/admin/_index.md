@@ -75,7 +75,7 @@ email: 'weiadam@mit.edu'
 highlight_name: true
 ---
 
-I am a second year Ph.D. student at MIT advised by [Prof. Russ Tedrake](https://groups.csail.mit.edu/locomotion/russt.html). Broadly speaking, my research interests are in robotics, manipulation, imitation learning, and controls. I am currently interested in how simulated data can be used to scale robot learning.
+I am a second year Ph.D. student at MIT advised by [Prof. Russ Tedrake](https://groups.csail.mit.edu/locomotion/russt.html). Broadly speaking, I am interested in robotics, imitation learning, generative modeling, and controls. My current research focuses on two main directions: 1) Understanding and improving how different data sources can be used in robot imitation learning; and 2) algorithmic improvements for generative modeling in robotics. Prior to MIT, I worked on model-based control for contact-rich systems.
 
 I completed my undergraduate degree at the University of Toronto where I worked with [Prof. Andreas Moshovos](https://www.eecg.utoronto.ca/~moshovos/000/doku.php). I also spent a formative summer at the University of Pennsylvania where I was advised by [Prof. Michael Posa](https://dair.seas.upenn.edu/).
 
