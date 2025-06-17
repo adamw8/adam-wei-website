@@ -29,8 +29,8 @@ publishDate: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: IROS 2025 Submission
-publication_short: IROS 2025 Submission
+publication: IROS 2025
+publication_short: IROS 2025
 
 abstract: In imitation learning for robotics, cotraining with demonstration data generated both in simulation and on real hardware has emerged as a powerful recipe to overcome the sim2real gap. This work seeks to elucidate basic principles of this sim-and-real cotraining to help inform simulation design, sim-and-real dataset creation, and policy training. Focusing narrowly on the canonical task of planar pushing from camera inputs enabled us to be thorough in our study. These experiments confirm that cotraining with simulated data can dramatically improve performance in real, especially when real data is limited. Performance gains scale with simulated data, but eventually plateau; real-world data increases this performance ceiling. The results also suggest that reducing the domain gap in physics may be more important than visual fidelity for non-prehensile manipulation tasks. Perhaps surprisingly, having some visual domain gap actually helps the cotrained policy -- binary probes reveal that high-performing policies learn to distinguish simulated domains from real. We conclude by investigating this nuance and mechanisms that facilitate positive transfer between sim-and-real. In total, our experiments span over 40 real-world policies (evaluated on 800+ trials) and 200 simulated policies (evaluated on 40,000+ trials).
 
@@ -50,11 +50,11 @@ featured: false
 #   url: 
 
 url_pdf: 'https://arxiv.org/abs/2503.22634'
-url_code: 'https://github.com/adamw8/gcs-diffusion/'
+url_code: 'https://github.com/orgs/sim-and-real-cotraining/repositories'
 url_dataset: ''
 url_poster: ''
-url_project: ''
-url_slides: ''
+url_project: 'https://sim-and-real-cotraining.github.io/'
+url_slides: 'https://slides.com/weiadam/amazon-coro-symposium-2025'
 url_source: ''
 url_video: ''
 
