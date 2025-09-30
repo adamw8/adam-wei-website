@@ -64,9 +64,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/adam_wei_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'weiadam@mit.edu'
@@ -75,10 +75,10 @@ email: 'weiadam@mit.edu'
 highlight_name: true
 ---
 
-I am a third year Ph.D. student at MIT advised by [Prof. Russ Tedrake](https://groups.csail.mit.edu/locomotion/russt.html). My current research focuses on two main directions: 1) understanding and improving how different data sources can be used in robot imitation learning; and 2) algorithmic improvements for generative modeling in robotics with a focus on learning from out-of-distribution or low-quality data. Prior to MIT, I worked on model-based control for contact-rich systems.
-
-I completed my undergraduate degree at the University of Toronto where I worked with [Prof. Andreas Moshovos](https://www.eecg.utoronto.ca/~moshovos/000/doku.php). I also spent a formative summer at the University of Pennsylvania where I was advised by [Prof. Michael Posa](https://dair.seas.upenn.edu/).
+I am a third year Ph.D. student at MIT advised by [Prof. Russ Tedrake](https://groups.csail.mit.edu/locomotion/russt.html). My current research focuses on two main directions: 1) understanding and improving how different data sources can be used in robot imitation learning; and 2) algorithmic improvements for generative modeling in robotics with a focus on learning from out-of-distribution or low-quality data. Prior to MIT, I worked on model-based control for contact-rich systems with [Prof. Michael Posa](https://dair.seas.upenn.edu/).
 
 I am grateful to be funded by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [NSERC Postgraduate Scholarship (Doctoral)](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/index_eng.asp).
+
+[CV (last updated October, 2025)](/uploads/resume.pdf) 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
