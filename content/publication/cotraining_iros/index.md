@@ -36,9 +36,6 @@ abstract: In imitation learning for robotics, cotraining with demonstration data
 
 summary:
 
-image:
-  focal_point: Right
-
 tags: []
 
 # Display this page in the Featured widget?

@@ -36,9 +36,6 @@ abstract: "Diffusion policies have shown impressive results in robot imitation l
 
 summary:
 
-image:
-  focal_point: Right
-
 tags: []
 
 # Display this page in the Featured widget?
@@ -54,7 +51,7 @@ url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://lexifol.github.io/diffusion-learns-kinematic/'
 url_slides: ''
 url_source: ''
 url_video: ''
