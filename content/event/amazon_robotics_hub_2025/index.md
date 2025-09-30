@@ -20,7 +20,7 @@ authors: [admin]
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Slides are available [**here**]https://slides.com/weiadam/amazon-robotics-hub-2025).'
