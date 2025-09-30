@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 85
 
-title: Publications
+title: Selected Publication
 subtitle: ''
 
 content:
@@ -21,7 +21,8 @@ content:
     category: ''
     publication_type: ''
     author: ''
-    exclude_featured: true
+    featured_only: true
+    exclude_featured: false
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
@@ -31,7 +32,6 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 design:
-  # Choose a view for the listings:
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
