@@ -79,6 +79,6 @@ I am a third year Ph.D. student at MIT advised by [Prof. Russ Tedrake](https://g
 
 I am grateful to be funded by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [NSERC Postgraduate Scholarship (Doctoral)](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/index_eng.asp).
 
-{{< icon name="file-pdf" pack="fas" >}} [**CV**](/uploads/resume.pdf) (last updated October, 2025) 
+{{< icon name="file-pdf" pack="fas" >}} [**CV**](/uploads/adam_wei_resume.pdf) (last updated October, 2025) 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
