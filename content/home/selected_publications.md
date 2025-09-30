@@ -9,19 +9,19 @@ headless: true
 # Order that this section appears on the page.
 weight: 85
 
-title: Selected Publication
+title: Selected Publications
 subtitle: ''
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - publication
+      - selected_publications
     tag: ''
     category: ''
     publication_type: ''
     author: ''
-    featured_only: true
+    featured_only: false
     exclude_featured: false
     exclude_future: false
     exclude_past: false
