@@ -60,7 +60,7 @@ url_video: 'https://www.youtube.com/watch?v=L57Jz3dPwO8&feature=youtu.be'
 image:
   caption: ''
   focal_point: 'Smart'
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
