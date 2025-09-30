@@ -64,9 +64,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/adam_wei_resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/adam_wei_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'weiadam@mit.edu'
@@ -79,6 +79,6 @@ I am a third year Ph.D. student at MIT advised by [Prof. Russ Tedrake](https://g
 
 I am grateful to be funded by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [NSERC Postgraduate Scholarship (Doctoral)](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/index_eng.asp).
 
-[CV (last updated October, 2025)](/uploads/resume.pdf) 
+{{< icon name="file-pdf" pack="fas" >}} [**CV**](/uploads/resume.pdf) (last updated October, 2025) 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
