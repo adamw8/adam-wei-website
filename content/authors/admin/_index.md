@@ -75,7 +75,9 @@ email: 'weiadam@mit.edu'
 highlight_name: true
 ---
 
-I am a third year Ph.D. student at MIT advised by [Prof. Russ Tedrake](https://groups.csail.mit.edu/locomotion/russt.html). My current research focuses on two main directions: 1) understanding and improving how different data sources can be used in robot imitation learning; and 2) algorithmic improvements for generative modeling in robotics with a focus on learning from out-of-distribution or low-quality data. Prior to MIT, I worked on model-based control for contact-rich systems with [Prof. Michael Posa](https://dair.seas.upenn.edu/).
+I am a third year Ph.D. student at MIT advised by [Prof. Russ Tedrake](https://groups.csail.mit.edu/locomotion/russt.html). I am currently interning at [Physical Intelligence](https://www.pi.website/).
+
+My research focuses on two main directions: 1) understanding and improving how different data sources can be used in robot imitation learning; and 2) algorithmic improvements for generative modeling in robotics with a focus on learning from out-of-distribution or low-quality data. Prior to MIT, I worked on model-based control for contact-rich systems with [Prof. Michael Posa](https://dair.seas.upenn.edu/).
 
 I am grateful to be funded by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [NSERC Postgraduate Scholarship (Doctoral)](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/index_eng.asp).
 
