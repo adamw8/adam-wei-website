@@ -45,7 +45,7 @@ featured: false
 url_pdf: 'https://arxiv.org/abs/2606.12365'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'poster.pdf'
 url_project: 'https://ambient-diffusion-policy.github.io/'
 url_slides: 'https://slides.com/weiadam/ambient-diffusion-policy-imitation-learning-from-suboptimal-data-in-robotics'
 url_source: ''
