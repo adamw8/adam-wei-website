@@ -28,7 +28,7 @@ publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 publication: Preprint
-publication_short: Preprint
+publication_short: 'Preprint.<br><span style="padding-left:1.25rem">•&ensp;<a href="https://hand-erc.org/">HAND ERC</a> — <span style="color:green"><strong>Fernando Family Best Paper Award 2026</strong></span></span>'
 
 abstract: "Imitation learning has enabled highly-dexterous robotic manipulation from RGB observations. Policies trained with these methods, however, typically condition robot actions on only a short history of observations. These policies cannot solve tasks that require memory and can get stuck repeatedly executing the same failing motions. In this work, we first benchmark policy performance as context length is incrementally increased from short to long, across a spectrum of tasks with varying local stability and memory requirements, and in multiple data regimes. To our knowledge, this is the first study to investigate context length in imitation learning at this level of detail. Our results challenge prior claims: naively scaling context length is not as brittle as advertised in literature. With an appropriate conditioning method and denoising backbone (UNet+Cross-Attention), single-task policies achieve high success rates on many tasks in the usual data regime even with naive scaling. Next, we propose a training algorithm to jointly train policies at multiple context lengths, further reducing the sample complexity of long-context learning. Finally, we apply our findings to re-evaluate some previously proposed solutions to long-context imitation learning."
 
